@@ -4,7 +4,7 @@
 ```js
 
 const sebasdavgon
-  pronouns: "he" | "him
+  pronouns: "he" | "him"
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 }
